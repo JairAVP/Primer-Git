@@ -1,0 +1,28 @@
+.vertical{
+    background: green;
+    display: inline-block;
+    position: sticky;
+    top: 10px;
+}
+
+.vertical nav ul{
+    display: flex;
+    flex-direction: column;
+}
+
+.vertical nav ul li{
+    list-style: none;
+    display: inline-block;
+}
+
+.vertical nav a{
+    text-decoration: none;
+    color: white;
+    padding: 10px;
+    margin: 10px;
+    line-height: 50px;
+}
+.vertical nav ul li a:hover{
+    background: white;
+    color: black;
+}

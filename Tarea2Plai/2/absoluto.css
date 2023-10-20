@@ -1,0 +1,23 @@
+.izqArriba{
+    width: 90px;
+    height: 90px;
+    background: red;
+    position: absolute;
+}
+
+.derArriba{
+    width: 90px;
+    height: 90px;
+    background: blue;
+    position: absolute;
+    left: 94.7%;
+}
+
+.derAbajo{
+    width: 90px;
+    height: 90px;
+    background: green;
+    position: absolute;
+    left: 94.7%;
+    top: 89%;
+}

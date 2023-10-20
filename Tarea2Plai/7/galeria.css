@@ -1,0 +1,14 @@
+.imagenes{
+    width: 25%;
+    float: left;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column-reverse;
+}
+
+.imagenes2{
+    width: 25%;
+    float: left;
+    display: flex;
+    flex-direction: column;
+}

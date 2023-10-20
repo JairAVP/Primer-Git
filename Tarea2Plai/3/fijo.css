@@ -1,0 +1,24 @@
+nav{
+    background: purple;
+    border: 2px solid black;
+    position: sticky;
+    top: 5px;
+}
+
+nav ul li{
+    list-style: none;
+    display: inline-block;
+}
+
+nav ul li a{
+    text-decoration: none;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+    color: white;
+    padding: 10px;
+    border-radius: 50px;
+}
+
+a:hover{
+    background: black;
+}
